@@ -5,7 +5,7 @@ from qrcode.image.styles.colormasks import RadialGradiantColorMask
 from PIL import Image, ImageDraw, ImageFont
 
 # La phrase à convertir
-input_phrase = "http://172.31.100.218/attendance/attendance.php?room_id=3"
+input_phrase = "http://172.31.100.229/attendance/attendance.php?room_id=3"
 room_number = "3"  # Numéro de la salle
 
 # Générer le QR Code
